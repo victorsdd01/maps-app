@@ -1,2 +1,4 @@
 # maps-app
-Simple app builded with vue 3 and composition API and vuetify 3, In this app I'm testing a lot of the mapbox API, basically you can get your current location, search a place a see the polylines between 2 locations. 
+A simple app built with Vue 3 and composition API and vuetify 3, In this app, I'm testing a lot of the Mapbox API you can get your current location, search a place, and see the polylines between 2 locations. 
+
+
